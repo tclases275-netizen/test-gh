@@ -1,9 +1,9 @@
 # test-gh}
 # Autor: Daney Estacio
 ##Lista de elementos
--Elemento 1
--Elemento 2
--Elemento 3
+- Elemento 1
+- Elemento 2
+- Elemento 3
 
 ## Seccion de código
 ```bash
